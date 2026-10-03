@@ -1,16 +1,16 @@
 # Hi, I'm Ibrahim Shimul
 
-I am a solo UI/UX designer in Bangladesh. I do the whole job myself: research, user flows, UI design and prototypes. I work at Softvence on client projects, and I also build my own projects.
+I am a UX designer and product builder in Bangladesh. I design products and I build them too, using AI for both design and development. I work at Softvence on client projects, and I also build my own.
 
-I use AI and voice input as a thinking partner. It helps me work faster and discover new things. The design decisions stay mine.
+I use AI and voice input as a thinking partner. It helps me work faster and discover new things. The decisions stay mine.
 
 ## What I do
 
 - UX research and user flows
-- UI design and interactive prototypes
-- Design systems and tokens
+- Product design: prototypes and design systems
+- Development with AI: turning designs into working products
 - Handoff pages for developers
-- Tools: Figma, FigJam, HTML
+- Tools: Figma, FigJam, HTML, Claude
 
 ## Contact
 
